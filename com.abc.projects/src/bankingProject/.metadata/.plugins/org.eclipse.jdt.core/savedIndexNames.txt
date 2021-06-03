@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+F:\softwares\eclipse\readme\com.abc.projects\src\bankingProject\.metadata\.plugins\org.eclipse.jdt.core
+4084645924.index
+193816324.index
+3460880079.index
